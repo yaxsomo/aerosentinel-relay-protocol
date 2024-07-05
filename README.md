@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/yaxsomo/aerosentinel-relay-protocol/assets/71334330/b1a6072a-204e-46a4-a6a0-3012d6d64d7f" alt="aerosentinel RP logo">
+  <img src="https://github.com/yaxsomo/aerosentinel-relay-protocol/assets/71334330/4d8f9b75-0815-4ff6-914e-338cd4e0cb87" alt="aerosentinel RP logo">
 </p>
 
 #
