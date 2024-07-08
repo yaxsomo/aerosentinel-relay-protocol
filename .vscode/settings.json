@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "checksum.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "protocol.C": "cpp",
+        "time.h": "c",
+        "arp_protocol.h": "c",
+        "protocol.h": "c",
+        "cobs.h": "c",
+        "commands.h": "c",
+        "stdlib.h": "c",
+        "data_structures.h": "c",
+        "tools.h": "c"
+    }
+}

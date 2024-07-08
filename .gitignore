@@ -1,5 +1,7 @@
-build/*
+# .gitignore
+
+/build/*
 !build/Makefile
-*.o
-*.exe
-*.out
+/src/*.o
+/*.exe
+/*.out
